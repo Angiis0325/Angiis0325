@@ -104,6 +104,19 @@ I enjoy transforming ideas into projects, solving problems with code, and discov
 </p>
 
 ---
+---
+
+<!-- NUEVA SECCIÓN INTEGRADA: SPOTIFY -->
+# 🎧 Actualmente Escuchando
+
+<div align="center">
+  <a href="https://open.spotify.com/user/𝑲𝒂𝒕 𝒔𝒕𝒂𝒚">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=%F0%9D%91%B2%F0%9D%92%82%F0%9D%92%95%20%F0%9D%92%94%F0%9D%92%95%F0%9D%92%82%F0%9D%92%9A&count=5&unique=true&theme=dark" alt="Spotify recently played" />
+  </a>
+</div>
+
+---
+---
 
 # 🐍 Snake is Watching My Commits
 
