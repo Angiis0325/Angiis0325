@@ -12,8 +12,9 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Angiis0325&label=PROFILE%20VIEWS&color=FF1493&style=for-the-badge"/>
+<h2>💗 Systems Engineering Student 💗</h2>
 
+<p> 💻 Code • Create • Learn ✨<br> 🌸 Turning ideas into software<br> 🇨🇴 Colombia </p>
 </p>
 
 ---
