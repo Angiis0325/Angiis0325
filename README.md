@@ -1,16 +1,20 @@
-<div align="center">
+<p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=220&section=header&text=Angie%20Katherin%20Páez&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=220&section=header&text=Angie%20Katherin%20Páez&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
 
-<h2>💗 Systems Engineering Student 💗</h2>
-
-<p>
-💻 Code • Create • Learn ✨<br>
-🌸 Turning ideas into software<br>
-🇨🇴 Colombia
 </p>
 
-</div>
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=25&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=700&lines=Systems+Engineering+Student+💻;Code+%E2%80%A2+Create+%E2%80%A2+Learn+✨;Turning+ideas+into+code+💗;Welcome+to+my+little+corner+of+GitHub+🌸"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Angiis0325&label=PROFILE%20VIEWS&color=FF1493&style=for-the-badge"/>
+
+</p>
 
 ---
 
@@ -38,67 +42,90 @@ I enjoy transforming ideas into projects, solving problems with code, and discov
 
 # 💻 My Tech Stack
 
-<div align="center">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql,git,github,vscode&theme=light" />
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql,git,github,vscode&theme=light"/>
 
-</div>
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-FF1493?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-FF1493?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-FF1493?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-FF69B4?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-FF1493?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
+
+</p>
 
 ---
 
-# 📊 GitHub Statistics
+📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Angiis0325&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=FF1493&icon_color=FF69B4&text_color=555555&bg_color=FFF0F6" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Angiis0325&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D0D0D&title_color=FF1493&icon_color=FF1493&text_color=F5F5F5&border_color=FF1493"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angiis0325&layout=compact&hide_border=true&langs_count=8&title_color=FF1493&text_color=555555&bg_color=FFF0F6" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angiis0325&layout=compact&hide_border=true&langs_count=8&bg_color=0D0D0D&title_color=FF1493&text_color=F5F5F5&border_color=FF1493"/>
 
-</div>
+</p>
 
 ---
 
 # 💗 Contribution Streak
 
-<div align="center">
+<p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Angiis0325&hide_border=true&background=FFF0F6&ring=FF1493&fire=FF69B4&currStreakLabel=FF1493&sideLabels=FF1493&dates=777777&currStreakNum=FF1493&sideNums=FF69B4" />
+<img src="https://streak-stats.demolab.com?user=Angiis0325&hide_border=true&background=0D0D0D&ring=FF1493&fire=FF69B4&currStreakLabel=FF1493&sideLabels=FF69B4&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
 
-</div>
+</p>
 
 ---
 
 # 🌸 Contribution Graph
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Angiis0325&bg_color=FFF0F6&color=FF1493&line=FF1493&point=FF69B4&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Angiis0325&bg_color=0D0D0D&color=FF69B4&line=FF1493&point=FFFFFF&area=true&hide_border=true&custom_title=Angie's%20Contribution%20Graph"/>
 
-</div>
+</p>
 
 ---
 
 # 🎀 My GitHub Activity
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Angiis0325&theme=rose_pine" width="95%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Angiis0325&theme=github_dark" width="95%"/>
 
-</div>
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Angiis0325&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Angiis0325&theme=github_dark"/>
+
+</p>
 
 ---
 
 # 👾 Pac-Man is Watching My Commits
 
-<div align="center">
+<p align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="95%" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/pacman.gif" width="180"/>
 
-<br>
+</p>
 
-<i>Every commit feeds the little monster 👾💗</i>
+<p align="center">
 
-</div>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</p>
 
 ---
 
@@ -148,22 +175,34 @@ Some of the areas I've explored throughout my Systems Engineering journey:
 
 # 🌸 Find Me Around the Web
 
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/Angiis0325">
+
 <img src="https://img.shields.io/badge/GitHub-FF1493?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
-</div>
+<a href="https://www.linkedin.com/">
+
+<img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+</p>
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=130&section=footer" width="100%"/>
+<p align="center">
 
 ### 💗 Thanks for visiting my profile! 💗
 
 ✨ *Keep learning. Keep creating. Keep coding.* ✨
 
-</div>
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=130&section=footer"/>
+
+</p>
