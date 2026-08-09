@@ -1,20 +1,12 @@
-<p align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=220&section=header&text=Angie%20Katherin%20Páez&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=220&section=header&text=Angie%20Katherin%20Páez&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-</p>
+<h2>💗 Systems Engineering Student 💗</h2>
 
-<p align="center">
+<p> 💻 Code • Create • Learn ✨<br> 🌸 Turning ideas into software<br> 🇨🇴 Colombia </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=25&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=700&lines=Systems+Engineering+Student+💻;Code+%E2%80%A2+Create+%E2%80%A2+Learn+✨;Turning+ideas+into+code+💗;Welcome+to+my+little+corner+of+GitHub+🌸"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Angiis0325&label=PROFILE%20VIEWS&color=FF1493&style=for-the-badge"/>
-
-</p>
+</div>
 
 ---
 
