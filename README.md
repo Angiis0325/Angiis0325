@@ -173,19 +173,21 @@ Some of the areas I've explored throughout my Systems Engineering journey:
 
 ---
 
-# 🌷 A Little Note
+# 🌸 Find Me Around the Web
 
 <p align="center">
 
-💗 <i>Thanks for stopping by my little corner of GitHub.</i> 💗
+<a href="https://github.com/Angiis0325">
 
-<br><br>
+<img src="https://img.shields.io/badge/GitHub-FF1493?style=for-the-badge&logo=github&logoColor=white"/>
 
-<i>Code it. Break it. Fix it. Learn from it.</i> ✨
+</a>
 
-<br><br>
+<a href="https://www.linkedin.com/">
 
-🌸 🖤 💻 🖤 🌸
+<img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
 
 </p>
 
