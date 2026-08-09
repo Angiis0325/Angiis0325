@@ -105,7 +105,7 @@ I enjoy transforming ideas into projects, solving problems with code, and discov
 
 ---
 
-# 👾 Pac-Man is Watching My Commits
+# 🐍 Snake is Watching My Commits
 
 <p align="center">
 
