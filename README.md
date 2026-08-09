@@ -63,13 +63,13 @@ I enjoy transforming ideas into projects, solving problems with code, and discov
 
 ---
 
-# 📊 GitHub Statistics
+📊 GitHub Statistics
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Angiis0325&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=FF1493&icon_color=FF69B4&text_color=555555&bg_color=FFF0F6"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Angiis0325&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D0D0D&title_color=FF1493&icon_color=FF1493&text_color=F5F5F5&border_color=FF1493"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angiis0325&layout=compact&hide_border=true&langs_count=8&title_color=FF1493&text_color=555555&bg_color=FFF0F6"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angiis0325&layout=compact&hide_border=true&langs_count=8&bg_color=0D0D0D&title_color=FF1493&text_color=F5F5F5&border_color=FF1493"/>
 
 </p>
 
@@ -79,7 +79,7 @@ I enjoy transforming ideas into projects, solving problems with code, and discov
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Angiis0325&hide_border=true&background=FFF0F6&ring=FF1493&fire=FF69B4&currStreakLabel=FF1493&sideLabels=FF1493&dates=777777&currStreakNum=FF1493&sideNums=FF69B4"/>
+<img src="https://streak-stats.demolab.com?user=Angiis0325&hide_border=true&background=0D0D0D&ring=FF1493&fire=FF69B4&currStreakLabel=FF1493&sideLabels=FF69B4&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
 
 </p>
 
@@ -89,7 +89,7 @@ I enjoy transforming ideas into projects, solving problems with code, and discov
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Angiis0325&bg_color=FFF0F6&color=FF1493&line=FF69B4&point=FF1493&area=true&hide_border=true&custom_title=Angie's%20Contribution%20Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Angiis0325&bg_color=0D0D0D&color=FF69B4&line=FF1493&point=FFFFFF&area=true&hide_border=true&custom_title=Angie's%20Contribution%20Graph"/>
 
 </p>
 
@@ -99,15 +99,15 @@ I enjoy transforming ideas into projects, solving problems with code, and discov
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Angiis0325&theme=rose_pine"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Angiis0325&theme=github_dark" width="95%"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Angiis0325&theme=rose_pine"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Angiis0325&theme=github_dark"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Angiis0325&theme=rose_pine"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Angiis0325&theme=github_dark"/>
 
 </p>
 
@@ -173,21 +173,19 @@ Some of the areas I've explored throughout my Systems Engineering journey:
 
 ---
 
-# 💞 Let's Connect
+# 🌷 A Little Note
 
 <p align="center">
 
-<a href="https://github.com/Angiis0325">
+💗 <i>Thanks for stopping by my little corner of GitHub.</i> 💗
 
-<img src="https://img.shields.io/badge/GitHub-FF1493?style=for-the-badge&logo=github&logoColor=white"/>
+<br><br>
 
-</a>
+<i>Code it. Break it. Fix it. Learn from it.</i> ✨
 
-<a href="https://www.linkedin.com/">
+<br><br>
 
-<img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
+🌸 🖤 💻 🖤 🌸
 
 </p>
 
